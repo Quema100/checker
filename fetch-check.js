@@ -6,7 +6,6 @@ window.fetch = async (...args) => {
   console.log(request);
 
   try {
-    // 비동기로 데이터 가져오기
     const response = await originalFetch(url, options);
 
     console.log(response);
