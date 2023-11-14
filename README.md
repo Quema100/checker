@@ -1,2 +1,2 @@
-# fetch-checker
-fetch check
+# checker
+using fetch
